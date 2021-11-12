@@ -1,0 +1,64 @@
+{
+    "frases": [
+        {
+            "nome": "Jonathan Joestar",
+            "mensagem": "Um verdadeiro cavalheiro é corajoso e ajuda os necessitados. Mesmo que seja uma luta que ele não tem chance de vencer.",
+            "imagem": "https://images6.fanpop.com/image/polls/1635000/1635459_1497776967010_full.jpg"
+        }, 
+        {
+            "nome": "Jonathan Joestar",
+            "mensagem": "Você não pode vencer sem estar faminto, mas não faminto como um vilão, e sim em uma maneira muito mais nobre de ser.",
+            "imagem": "https://images6.fanpop.com/image/polls/1635000/1635459_1497776967010_full.jpg"
+        },
+        {
+            "nome": "Joseph Joestar",
+            "mensagem": "Sua próxima frase sera: *Olha isso é JoJo*",
+            "imagem":  "https://i1.sndcdn.com/artworks-nJ7skmqFgRQZyE6u-txoXkw-t500x500.jpg"
+        },
+        {
+            "nome": "Joseph Joestar",
+            "mensagem": "NIGERUNDAYO",
+            "imagem":  "https://i1.sndcdn.com/artworks-nJ7skmqFgRQZyE6u-txoXkw-t500x500.jpg"
+        },
+        {
+            "nome": "Jotaro Kujo",
+            "mensagem": "ORA ORA ORA ORA!",
+            "imagem": "http://pm1.narvii.com/6331/bd7e26ba8fd81ee6f7b8b461187502dc896ce241_00.jpg"
+        },
+        {
+            "nome": "Jotaro Kujo",
+            "mensagem": "Yare Yare",
+            "imagem": "http://pm1.narvii.com/6331/bd7e26ba8fd81ee6f7b8b461187502dc896ce241_00.jpg"
+        },
+        {
+            "nome": "Josuke Higashikata",
+            "mensagem":"O que você falou do meu cabelo?!",
+            "imagem": "https://pbs.twimg.com/profile_images/999367784374059010/JIj7OZ4H.jpg"
+        },
+        {
+            "nome": "Josuke Higashikata",
+            "mensagem":"DORA DORA DORA DORA!",
+            "imagem": "https://pbs.twimg.com/profile_images/999367784374059010/JIj7OZ4H.jpg"
+        },
+        {
+            "nome": "Giorno Giovanna",
+            "mensagem":"Eu sou Giorno Giovanna e tenho um sonho",
+            "imagem": "https://sucodemanga.com.br/wp-content/uploads/2021/01/giorno-giovanna.jpg"
+        },
+        {
+            "nome": "Giorno Giovanna",
+            "mensagem":"MUDA MUDA MUDA MUDA MUDA!",
+            "imagem": "https://sucodemanga.com.br/wp-content/uploads/2021/01/giorno-giovanna.jpg"
+        },
+        {
+            "nome":"Jolyne Cujoh",
+            "mensagem":"ORA ORA ORA ORA!",
+            "imagem":"https://ovicio.com.br/wp-content/uploads/2021/08/20210811-ovicio-jolyne.jpg"
+        },
+        {
+            "nome":"Jolyne Cujoh",
+            "mensagem":"Eu sou inocente. O que você acha disso? Você acredita em mim?",
+            "imagem":"https://ovicio.com.br/wp-content/uploads/2021/08/20210811-ovicio-jolyne.jpg"
+        }
+    ]
+}
